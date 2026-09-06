@@ -1,0 +1,17 @@
+node_modules/
+auth_info/
+auth_info_backup/
+*.json
+*.tar.gz
+*.deb
+*.mp4
+*.webp
+*.png
+*.jpg
+*.pdf
+*.xapk
+*.apk
+*.zip
+*.rar
+*.log
+.DS_Store
